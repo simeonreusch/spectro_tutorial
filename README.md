@@ -9,4 +9,4 @@ Go into the newly cloned repository and launch a jupyter instance:
 
 The tutorial is contained in the `spectro_tutorial.ipynb` file.
 
-If there are question, don't hesitate to write an [email](mailto:simeon.reusch@desy.de).
+If there are questions, don't hesitate to write an [email](mailto:simeon.reusch@desy.de).
