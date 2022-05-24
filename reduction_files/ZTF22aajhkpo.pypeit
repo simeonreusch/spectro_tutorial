@@ -1,0 +1,46 @@
+# Auto-generated PypeIt file using PypeIt version: 1.8.1
+# 2022-05-24
+
+# User-defined execution parameters
+[rdx]
+spectrograph = not_alfosc
+
+# Setup
+setup read
+    Setup B:
+        dispname: Grism_4
+          decker: Slit_1.0
+         binning: 1,1
+setup end
+
+# Read in the data
+data read
+ path /Users/simeon/pypeit/4Students/data
+|           filename |                 frametype |                 ra |            dec |                  target | dispname |   decker | binning |                mjd |          airmass | exptime |
+| ALFe200068.fits.fz |                  arc,tilt |      152.541666666 | -11.0805277775 |                    HeNe |  Grism_4 | Slit_1.0 |     1,1 |  59719.94799959491 | 2.12546540931546 |     6.0 |
+| ALFe200085.fits.fz |                  arc,tilt |      162.097916667 |  37.5702777769 |                    HeNe |  Grism_4 | Slit_1.0 |     1,1 | 59720.016174282406 | 1.67467949439235 |     6.0 |
+| ALFe200092.fits.fz |                  arc,tilt | 175.81320833400002 |  32.8524444436 |                    HeNe |  Grism_4 | Slit_1.0 |     1,1 |  59720.04207766204 | 1.58213909637837 |     6.0 |
+| ALFe200104.fits.fz |                  arc,tilt |     189.5378749995 |  71.4164999982 |                    HeNe |  Grism_4 | Slit_1.0 |     1,1 |  59720.08826268518 | 1.70876250967671 |     6.0 |
+| ALFe200135.fits.fz |                  arc,tilt | 289.16008333350004 |  61.6876388874 |        He alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |  59720.27816795139 | 1.00000734020215 |     6.0 |
+| ALFe200136.fits.fz |                  arc,tilt | 289.16008333350004 |  61.6876388874 |        Ne alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |  59720.27845864584 | 1.00000734020215 |     3.0 |
+| ALFe200137.fits.fz |                  arc,tilt | 289.16008333350004 |  61.6876388874 |      ThAr alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |  59720.27898163194 | 1.00000734020215 |    45.0 |
+| ALFe200069.fits.fz | pixelflat,illumflat,trace |      152.541666666 | -11.0805277775 |                 Halogen |  Grism_4 | Slit_1.0 |     1,1 |  59719.94845054398 | 2.13340512265384 |    10.0 |
+| ALFe200086.fits.fz | pixelflat,illumflat,trace |      162.097916667 |  37.5702777769 |                 Halogen |  Grism_4 | Slit_1.0 |     1,1 |  59720.01660219907 | 1.67916782829555 |    10.0 |
+| ALFe200093.fits.fz | pixelflat,illumflat,trace | 175.81320833400002 |  32.8524444436 |                 Halogen |  Grism_4 | Slit_1.0 |     1,1 |  59720.04255020833 | 1.58668484758023 |    10.0 |
+| ALFe200105.fits.fz | pixelflat,illumflat,trace |     189.5378749995 |  71.4164999982 |                 Halogen |  Grism_4 | Slit_1.0 |     1,1 |    59720.088699375 | 1.71065235647702 |    10.0 |
+| ALFe200130.fits.fz | pixelflat,illumflat,trace | 289.16008333350004 |  61.6876388874 | Halogen 1 alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |  59720.27671878472 | 1.00000734020215 |    10.0 |
+| ALFe200131.fits.fz | pixelflat,illumflat,trace | 289.16008333350004 |  61.6876388874 | Halogen 2 alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 | 59720.276986666664 |  1.0000073391818 |    10.0 |
+| ALFe200132.fits.fz | pixelflat,illumflat,trace | 289.16008333350004 |  61.6876388874 | Halogen 3 alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |  59720.27725450232 | 1.00000734020215 |    10.0 |
+| ALFe200133.fits.fz | pixelflat,illumflat,trace | 289.16008333350004 |  61.6876388874 | Halogen 4 alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 | 59720.277523958335 |  1.0000073391818 |    10.0 |
+| ALFe200134.fits.fz | pixelflat,illumflat,trace | 289.16008333350004 |  61.6876388874 | Halogen 5 alfosc-calibs |  Grism_4 | Slit_1.0 |     1,1 |   59720.2777909838 | 1.00000734020215 |    10.0 |
+| ALFe200216.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 | 59720.294374178244 | 1.00000734020215 |   0.002 |
+| ALFe200217.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 |  59720.29456434028 | 1.00000734122259 |   0.002 |
+| ALFe200218.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 |  59720.29475421296 |  1.0000073391818 |   0.002 |
+| ALFe200219.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 |  59720.29494381944 | 1.00000734020215 |   0.002 |
+| ALFe200220.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 |  59720.29513373843 | 1.00000734020215 |   0.002 |
+| ALFe200221.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 | 59720.295323645834 |  1.0000073391818 |   0.002 |
+| ALFe200222.fits.fz |                      bias | 289.16008333350004 | 61.6876388874 |      alfosc-calibs bias |  Grism_4 | Slit_1.3 |     1,1 | 59720.295513958336 | 1.00000734122259 |   0.002 |
+| ALFe200090.fits.fz |                   science | 175.81320833400002 |  32.8524444436 |            ZTF22aajhkpo |  Grism_4 | Slit_1.0 |     1,1 |  59720.02598486111 | 1.40104755862818 |   900.0 |
+| ALFe200091.fits.fz |                   science | 175.81320833400002 |  32.8524444436 |            ZTF22aajhkpo |  Grism_4 | Slit_1.0 |     1,1 |  59720.03652085648 | 1.48325012779774 |   900.0 |
+data end
+

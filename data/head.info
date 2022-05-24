@@ -1,0 +1,99 @@
+FILE           	OBJECT                   	DATE-OBS               	OBS_MODE    	IMAGETYP   	FAFLTNM 	FBFLTNM 	EXPTIME	ALFLTNM 	STFLTNM	AIRMASS         	PROPID  	ALAPRTNM	ALGRNM     	
+ALFe200063.fits	ALFOSC target acquisition	2022-05-20T22:20:41.989	IMAGING     	OBJECT     	Open    	Open    	2.5    	Open    	       	1.86431017462594	64-501  	Open    	Open_(Lyot)	
+ALFe200064.fits	ALFOSC target acquisition	2022-05-20T22:22:20.929	IMAGING     	OBJECT     	Open    	Open    	10.    	Open    	       	1.87925401419167	64-501  	Open    	Open_(Lyot)	
+ALFe200065.fits	ALFOSC target acquisition	2022-05-20T22:23:39.620	IMAGING     	OBJECT,SLIT	Open    	Open    	10.    	Open    	       	1.89127561389958	64-501  	Slit_1.0	Open_(Lyot)	
+ALFe200066.fits	ZTF22aajkpen             	2022-05-20T22:24:26.644	SPECTROSCOPY	OBJECT     	Open    	Open    	600.   	Open    	       	1.89860321009968	64-501  	Slit_1.0	Grism_#4   	
+ALFe200067.fits	ZTF22aajkpen             	2022-05-20T22:34:36.962	SPECTROSCOPY	OBJECT     	Open    	Open    	600.   	Open    	       	2.00171117997885	64-501  	Slit_1.0	Grism_#4   	
+ALFe200068.fits	HeNe                     	2022-05-20T22:45:04.166	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	2.12546540931546	64-501  	Slit_1.0	Grism_#4   	
+ALFe200069.fits	Halogen                  	2022-05-20T22:45:41.147	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	2.13340512265384	64-501  	Slit_1.0	Grism_#4   	
+ALFe200081.fits	ALFOSC target acquisition	2022-05-21T00:20:46.706	IMAGING     	STD        	Open    	Open    	0.05   	Open    	       	1.65609282770422	64-501  	Open    	Open_(Lyot)	
+ALFe200082.fits	ALFOSC target acquisition	2022-05-21T00:21:23.222	IMAGING     	STD        	Open    	Open    	0.2    	Open    	       	1.66063848592659	64-501  	Open    	Open_(Lyot)	
+ALFe200083.fits	ALFOSC target acquisition	2022-05-21T00:22:09.913	IMAGING     	STD,SLIT   	Open    	Open    	0.2    	Open    	       	1.66647412385064	64-501  	Slit_1.0	Open_(Lyot)	
+ALFe200084.fits	SP1045+378               	2022-05-21T00:22:47.039	SPECTROSCOPY	STD        	Open    	Open    	2.     	Open    	       	1.67122510830589	64-501  	Slit_1.0	Grism_#4   	
+ALFe200085.fits	HeNe                     	2022-05-21T00:23:14.459	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	1.67467949439235	64-501  	Slit_1.0	Grism_#4   	
+ALFe200086.fits	Halogen                  	2022-05-21T00:23:49.450	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.67916782829555	64-501  	Slit_1.0	Grism_#4   	
+ALFe200087.fits	ALFOSC target acquisition	2022-05-21T00:26:41.905	IMAGING     	OBJECT     	Open    	Open    	5.     	Open    	       	1.385240325739  	64-501  	Open    	Open_(Lyot)	
+ALFe200088.fits	ALFOSC target acquisition	2022-05-21T00:27:24.708	IMAGING     	OBJECT     	Open    	Open    	20.    	Open    	       	1.38869086307413	64-501  	Open    	Open_(Lyot)	
+ALFe200089.fits	ALFOSC target acquisition	2022-05-21T00:28:45.129	IMAGING     	OBJECT,SLIT	Open    	Open    	20.    	Open    	       	1.39525705414018	64-501  	Slit_1.0	Open_(Lyot)	
+ALFe200090.fits	ZTF22aajhkpo             	2022-05-21T00:29:55.092	SPECTROSCOPY	OBJECT     	Open    	Open    	900.   	Open    	       	1.40104755862818	64-501  	Slit_1.0	Grism_#4   	
+ALFe200091.fits	ZTF22aajhkpo             	2022-05-21T00:45:05.436	SPECTROSCOPY	OBJECT     	Open    	Open    	900.   	Open    	       	1.48325012779774	64-501  	Slit_1.0	Grism_#4   	
+ALFe200092.fits	HeNe                     	2022-05-21T01:00:32.510	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	1.58213909637837	64-501  	Slit_1.0	Grism_#4   	
+ALFe200093.fits	Halogen                  	2022-05-21T01:01:11.356	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.58668484758023	64-501  	Slit_1.0	Grism_#4   	
+ALFe200099.fits	ALFOSC target acquisition	2022-05-21T01:43:50.653	IMAGING     	OBJECT     	Open    	Open    	2.5    	Open    	       	1.63970430116116	64-501  	Open    	Open_(Lyot)	
+ALFe200100.fits	ALFOSC target acquisition	2022-05-21T01:44:22.842	IMAGING     	OBJECT     	Open    	Open    	10.    	Open    	       	1.64122406240678	64-501  	Open    	Open_(Lyot)	
+ALFe200101.fits	ALFOSC target acquisition	2022-05-21T01:45:37.543	IMAGING     	OBJECT,SLIT	Open    	Open    	10.    	Open    	       	1.64468449891346	64-501  	Slit_1.0	Open_(Lyot)	
+ALFe200102.fits	ZTF22aajhlaj             	2022-05-21T01:46:25.271	SPECTROSCOPY	OBJECT     	Open    	Open    	600.   	Open    	       	1.64693213308783	64-501  	Slit_1.0	Grism_#4   	
+ALFe200103.fits	ZTF22aajhlaj             	2022-05-21T01:56:35.605	SPECTROSCOPY	OBJECT     	Open    	Open    	600.   	Open    	       	1.67643907069317	64-501  	Slit_1.0	Grism_#4   	
+ALFe200104.fits	HeNe                     	2022-05-21T02:07:02.896	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	1.70876250967671	64-501  	Slit_1.0	Grism_#4   	
+ALFe200105.fits	Halogen                  	2022-05-21T02:07:38.646	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.71065235647702	64-501  	Slit_1.0	Grism_#4   	
+ALFe200130.fits	Halogen 1 alfosc-calibs  	2022-05-21T06:38:23.523	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200131.fits	Halogen 2 alfosc-calibs  	2022-05-21T06:38:46.668	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.0000073391818 	65-199  	Slit_1.0	Grism_#4   	
+ALFe200132.fits	Halogen 3 alfosc-calibs  	2022-05-21T06:39:09.809	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200133.fits	Halogen 4 alfosc-calibs  	2022-05-21T06:39:33.090	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.0000073391818 	65-199  	Slit_1.0	Grism_#4   	
+ALFe200134.fits	Halogen 5 alfosc-calibs  	2022-05-21T06:39:56.161	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	10.    	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200135.fits	He alfosc-calibs         	2022-05-21T06:40:30.712	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200136.fits	Ne alfosc-calibs         	2022-05-21T06:40:57.351	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	3.     	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200137.fits	ThAr alfosc-calibs       	2022-05-21T06:41:21.513	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	45.    	Open    	       	1.00000734020215	65-199  	Slit_1.0	Grism_#4   	
+ALFe200138.fits	Halogen 1 alfosc-calibs  	2022-05-21T06:42:57.117	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	7.692  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200139.fits	Halogen 2 alfosc-calibs  	2022-05-21T06:43:18.093	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	7.692  	Open    	       	1.0000073422431 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200140.fits	Halogen 3 alfosc-calibs  	2022-05-21T06:43:38.962	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	7.692  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200141.fits	Halogen 4 alfosc-calibs  	2022-05-21T06:43:59.893	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	7.692  	Open    	       	1.0000073422431 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200142.fits	Halogen 5 alfosc-calibs  	2022-05-21T06:44:20.894	SPECTROSCOPY	FLAT,LAMP  	Open    	Open    	7.692  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200143.fits	He alfosc-calibs         	2022-05-21T06:44:50.927	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	6.     	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200144.fits	Ne alfosc-calibs         	2022-05-21T06:45:17.394	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	3.     	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200145.fits	ThAr alfosc-calibs       	2022-05-21T06:45:41.415	SPECTROSCOPY	WAVE,LAMP  	Open    	Open    	45.    	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200168.fits	alfosc-calibs bias       	2022-05-21T06:54:18.359	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000733612113	65-199  	Slit_1.3	Grism_#4   	
+ALFe200169.fits	alfosc-calibs bias       	2022-05-21T06:54:30.240	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200170.fits	alfosc-calibs bias       	2022-05-21T06:54:42.135	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200171.fits	alfosc-calibs bias       	2022-05-21T06:54:54.030	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200172.fits	alfosc-calibs bias       	2022-05-21T06:55:05.960	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200173.fits	alfosc-calibs bias       	2022-05-21T06:55:17.840	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200174.fits	alfosc-calibs bias       	2022-05-21T06:55:29.801	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200175.fits	alfosc-calibs bias       	2022-05-21T06:55:41.789	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200176.fits	alfosc-calibs bias       	2022-05-21T06:55:53.775	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200177.fits	alfosc-calibs bias       	2022-05-21T06:56:05.732	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200178.fits	alfosc-calibs bias       	2022-05-21T06:56:17.541	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200179.fits	alfosc-calibs bias       	2022-05-21T06:56:35.370	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200180.fits	alfosc-calibs bias       	2022-05-21T06:56:45.710	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200181.fits	alfosc-calibs bias       	2022-05-21T06:56:55.971	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200182.fits	alfosc-calibs bias       	2022-05-21T06:57:06.370	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200183.fits	alfosc-calibs bias       	2022-05-21T06:57:16.706	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200184.fits	alfosc-calibs bias       	2022-05-21T06:57:27.031	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200185.fits	alfosc-calibs bias       	2022-05-21T06:57:37.391	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200186.fits	alfosc-calibs bias       	2022-05-21T06:57:47.734	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200187.fits	alfosc-calibs bias       	2022-05-21T06:57:58.073	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200188.fits	alfosc-calibs bias       	2022-05-21T06:58:08.441	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000733714128	65-199  	Slit_1.3	Grism_#4   	
+ALFe200189.fits	alfosc-calibs bias       	2022-05-21T06:58:18.762	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200190.fits	alfosc-calibs bias       	2022-05-21T06:58:34.950	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200191.fits	alfosc-calibs bias       	2022-05-21T06:58:45.272	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200192.fits	alfosc-calibs bias       	2022-05-21T06:58:55.555	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200193.fits	alfosc-calibs bias       	2022-05-21T06:59:05.851	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200194.fits	alfosc-calibs bias       	2022-05-21T06:59:16.213	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200195.fits	alfosc-calibs bias       	2022-05-21T06:59:26.564	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200196.fits	alfosc-calibs bias       	2022-05-21T06:59:36.914	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200197.fits	alfosc-calibs bias       	2022-05-21T06:59:47.317	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200198.fits	alfosc-calibs bias       	2022-05-21T06:59:57.683	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200199.fits	alfosc-calibs bias       	2022-05-21T07:00:08.253	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200200.fits	alfosc-calibs bias       	2022-05-21T07:00:18.855	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200201.fits	alfosc-calibs bias       	2022-05-21T07:00:35.188	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200202.fits	alfosc-calibs bias       	2022-05-21T07:00:46.698	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200203.fits	alfosc-calibs bias       	2022-05-21T07:00:58.199	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200204.fits	alfosc-calibs bias       	2022-05-21T07:01:09.679	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200205.fits	alfosc-calibs bias       	2022-05-21T07:01:21.230	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200206.fits	alfosc-calibs bias       	2022-05-21T07:01:32.699	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200207.fits	alfosc-calibs bias       	2022-05-21T07:01:44.290	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200208.fits	alfosc-calibs bias       	2022-05-21T07:01:55.900	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200209.fits	alfosc-calibs bias       	2022-05-21T07:02:07.470	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200210.fits	alfosc-calibs bias       	2022-05-21T07:02:19.002	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073381615 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200211.fits	alfosc-calibs bias       	2022-05-21T07:02:30.550	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200212.fits	alfosc-calibs bias       	2022-05-21T07:02:48.243	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200213.fits	alfosc-calibs bias       	2022-05-21T07:03:04.660	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200214.fits	alfosc-calibs bias       	2022-05-21T07:03:21.031	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200215.fits	alfosc-calibs bias       	2022-05-21T07:03:37.491	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200216.fits	alfosc-calibs bias       	2022-05-21T07:03:53.928	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200217.fits	alfosc-calibs bias       	2022-05-21T07:04:10.358	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	
+ALFe200218.fits	alfosc-calibs bias       	2022-05-21T07:04:26.763	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200219.fits	alfosc-calibs bias       	2022-05-21T07:04:43.145	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200220.fits	alfosc-calibs bias       	2022-05-21T07:04:59.554	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734020215	65-199  	Slit_1.3	Grism_#4   	
+ALFe200221.fits	alfosc-calibs bias       	2022-05-21T07:05:15.962	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.0000073391818 	65-199  	Slit_1.3	Grism_#4   	
+ALFe200222.fits	alfosc-calibs bias       	2022-05-21T07:05:32.405	SPECTROSCOPY	BIAS       	Open    	Open    	0.002  	Open    	       	1.00000734122259	65-199  	Slit_1.3	Grism_#4   	

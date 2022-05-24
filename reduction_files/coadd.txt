@@ -1,0 +1,9 @@
+
+[coadd1d]
+   coaddfile = 'ZTF22aajhkpo_coadd.fits'
+
+
+coadd1d read
+  Science/spec1d_ALFe200090-ZTF22aajhkpo_ALFOSC_20220521T003725.092.fits SPAT0248-SLIT0250-DET01
+  Science/spec1d_ALFe200091-ZTF22aajhkpo_ALFOSC_20220521T005235.402.fits SPAT0248-SLIT0250-DET01
+coadd1d end
