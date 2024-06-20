@@ -15,7 +15,7 @@ setup end
 
 # Read in the data
 data read
- path /Users/simeon/pypeit/4Students/data
+ path data
 |           filename |                 frametype |                 ra |            dec |                  target | dispname |   decker | binning |                mjd |          airmass | exptime |
 | ALFe200084.fits.fz |                  standard |      162.097916667 |  37.5702777769 |              SP1045+378 |  Grism_4 | Slit_1.0 |     1,1 | 59720.015833784724 | 1.67122510830589 |     2.0 |
 | ALFe200085.fits.fz |                  arc,tilt |      162.097916667 |  37.5702777769 |                    HeNe |  Grism_4 | Slit_1.0 |     1,1 | 59720.016174282406 | 1.67467949439235 |     6.0 |
