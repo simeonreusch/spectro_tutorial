@@ -1,4 +1,5 @@
 flux read
-  Science/spec1d_ALFe200090-ZTF22aajhkpo_ALFOSC_20220521T003725.092.fits sensfunc.fits
-  Science/spec1d_ALFe200091-ZTF22aajhkpo_ALFOSC_20220521T005235.402.fits
+  filename | sensfile
+  Science/spec1d_ALFe200090-ZTF22aajhkpo_ALFOSC_20220521T003725.092.fits | sensfunc.fits
+  Science/spec1d_ALFe200091-ZTF22aajhkpo_ALFOSC_20220521T005235.402.fits | sensfunc.fits
 flux end
